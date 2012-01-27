@@ -1,0 +1,1 @@
+This is a combination of http://acko.net/blog/farbtastic-jquery-color-picker-plug-in/ & http://www.digitalmagicpro.com/jPicker/ to display a palette of base colors next to the pinwheel.
